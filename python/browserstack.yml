@@ -1,11 +1,12 @@
-userName: YOUR_USERNAME
-accessKey: YOUR_ACCESS_KEY
+userName: arunelangovan_c5ZwQP
+accessKey: 1TsczAcBbxxDrbVAMHb5
 framework: python
-app: YOUR_APP_ID
+app: bs://7772707fcb9a2a769d0d318f485f6d3f52f55e9e
 platforms:
   - platformName: Android
-    deviceName: YOUR_DEVICE_NAME
-    platformVersion: YOUR_PLATFORM_VERSION
+    deviceName: Samsung Galaxy S23
+    platformVersion: "13.0"
 browserstackLocal: false
 buildName: Encore Hackathon
 projectName: Encore Hackathon
+allowInvisibleElements: true
